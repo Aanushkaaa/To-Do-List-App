@@ -2,8 +2,8 @@
 A basic To-Do List application created using HTML, CSS, and JavaScript.
 
 ## Features
-- Add new tasks to the to-do list.
-- Remove tasks by hovering over them (marking them as done).
++ Add new tasks to the to-do list.
++ Remove tasks by hovering over them (marking them as done).
 
 ## Files
 - index.html: HTML file containing the structure of the application.
